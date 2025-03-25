@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"standalone="no"?>
+
+<GuestList>
+  <Guest>
+      <firstName>gt</firstName>
+      <lastName>hy</lastName>
+      <phone>252525</phone>
+      <email>email</email>
+  </Guest>
+</GuestList>
